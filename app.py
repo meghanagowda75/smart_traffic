@@ -1,5 +1,5 @@
 # --------------------------------------------------------
-# Based on megha
+# Based on megha - maggieeeee
 # https://github.com/THU-MIG/yolov10/app.py
 # --------------------------------------------------------'
 
